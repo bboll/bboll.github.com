@@ -1,4 +1,4 @@
 bboll.github.com
 ================
 
-Web page for accessing current projects.
+Testing Github's free public webpages. Web page for accessing current projects.
